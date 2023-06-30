@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://davit1123.github.io/sitemap.xml
