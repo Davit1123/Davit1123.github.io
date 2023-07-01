@@ -75,7 +75,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 gitlab_username: # your GitLab user name
 twitter_username: # your Twitter handle
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
-linkedin_username: in/davit-gogolashvili-2b5017132 # your LinkedIn user name
+linkedin_username: davit-gogolashvili-2b5017132 # your LinkedIn user name
 telegram_username: # your Telegram user name
 scholar_userid: 8KPzR00AAAAJ&hl # your Google Scholar ID
 semanticscholar_id: # your Semantic Scholar ID
