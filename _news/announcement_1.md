@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+The paper "Estimating the Minimizer and the Minimum Value of a Regression Function under Passive Design" will appear in JMLR! ([pdf](https://arxiv.org/pdf/2211.16457.pdf) )
