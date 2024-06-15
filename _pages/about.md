@@ -19,6 +19,6 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-In 2022, I defended my thesis at EURECOM in the European Training Network WindMill (ETN) project, where I served as a doctoral student supervised by [Maurizio Filippone](https://www.eurecom.fr/~filippon/). I also had the opportunity to be a visiting student at the Machine Learning Genoa Center (hosted by [Lorenzo Rosasco](https://rubrica.unige.it/personale/UkNHXVxs)) and at the Center for Research in Economics and Statistics, collaborating with [Alexandre Tsybakov](https://www.ensae.fr/en/faculty/1014-alexandre-tsybakov).
+In 2022, I defended my thesis at EURECOM in the European Training Network WindMill (ETN) project, where I served as a doctoral student supervised by [Maurizio Filippone](https://www.kaust.edu.sa/en/study/faculty/maurizio-filippone). I also had the opportunity to be a visiting student at the Machine Learning Genoa Center (hosted by [Lorenzo Rosasco](https://rubrica.unige.it/personale/UkNHXVxs)) and at the Center for Research in Economics and Statistics, collaborating with [Alexandre Tsybakov](https://www.ensae.fr/en/faculty/1014-alexandre-tsybakov).
 
 My current research interests include kernel methods, scalability of algorithms, transfer learning and optimization.
